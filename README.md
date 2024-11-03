@@ -110,10 +110,11 @@ the problem i faced is that the drone doesn't move on even through the bushes an
 * I unlocked speed of the drone so that I can harvest more with the intense speed.
 * I unlocked the senses which gives us a whole bunch of commands to analyze the surrounding and certain states of the drone.
 * I unlocked the operaters
+* I unlocked the debug 
 
 ![](./step-4.png)
 ## Step 2: Farming on 3 x 3 tile
-
+![](./step-5.png)
 ### *Code:*
 
 ```python
@@ -261,7 +262,7 @@ In this code I used the variables to give the values of the items i want to harv
 * I unlocked the variables now that I can set the number of entities I want to keep as a condition.
 * I Unlocked the watering so that i get access to new items , the empty tank that is going to fill itself .
 
-![](./step-5.png)
+
 ## Step 4: Farming on 4 x 4 tile
  ### *Code:*
  ````python
